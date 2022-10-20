@@ -26,5 +26,5 @@ create table company (
 --comment: example comment
 --alter table person add column country varchar(2)
 --rollback ALTER TABLE person DROP COLUMN country;
---alter table person add column state varchar(2)
+alter table person add column state varchar(2)
 
